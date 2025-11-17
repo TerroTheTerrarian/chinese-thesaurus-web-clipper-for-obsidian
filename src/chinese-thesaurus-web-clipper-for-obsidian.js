@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Chinese Thesaurus Web Clipper for Obsidian
 // @namespace    https://ct.istic.ac.cn
-// @version      v1.0.0.20251117
+// @version      v1.0.1.20251117
 // @description  A user script that exports Chinese Thesaurus Item metadata as Obsidian Markdown files (Obsidian Chinese Thesaurus Web Clipper).
 // @author       abc202306
 // @match        https://ct.istic.ac.cn/site/organize/info/*

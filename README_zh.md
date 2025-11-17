@@ -1,11 +1,11 @@
 
-[中文](https://github.com/abc202306/chinese-thesaurus-web-clipper-for-obsidian/blob/main/README_zh.md)
+[English](https://github.com/abc202306/chinese-thesaurus-web-clipper-for-obsidian/blob/main/README.md)
 
-# Chinese Thesaurus Web Clipper for Obsidian
+# 为 Obsidian 设计的《汉语主题词》剪藏器
 
-A user script that exports Chinese Thesaurus Item metadata as Obsidian Markdown files (Obsidian Chinese Thesaurus Web Clipper).
+这是一个将《汉语主题词》词项剪藏成 Obsidian Markdowwn 文件的油猴脚本
 
-A generated markdown note example is shown below
+一个生成的 Markdown 笔记的例子如下所示
 
 ```markdown
 ---
@@ -132,22 +132,22 @@ mtime: 2025-11-07T15:38:40+08:00
 
 ```
 
-## How to use
+## 如何使用
 
-First, install this user script at https://greasyfork.org/en/scripts/556076-chinese-thesaurus-web-clipper-for-obsidian (Note: the github repo is https://github.com/abc202306/chinese-thesaurus-web-clipper-for-obsidian)
+首先，在网址 https://greasyfork.org/en/scripts/556076-chinese-thesaurus-web-clipper-for-obsidian 安装这个脚本 (注： 相关的 GitHub 存储库的网址是 https://github.com/abc202306/chinese-thesaurus-web-clipper-for-obsidian)
 
-Then, when you navigate to the URL `https://ct.istic.ac.cn/site/organize/info/*`, click the "OK" button in the pop-up dialog box to save the data of the current chinese thesarusus as an Obsidian Markdown note file.
+然后，当你导航到网址 `https://ct.istic.ac.cn/site/organize/info/*` 时，在弹出的对话框点击 “确认” 按钮，从而将当前的主题词的词项保存成一个 Obsidian Markdown 笔记文件
 
-## Screenshots
+## 截图
 
-### 1. The example table view in the Obsidian vault
+### 1. 一个 Obsidian 示例仓库中的所有主题词的表格视图的截图
 
 ![alt text](assets/chinese-thesaurus-webclipper-for-obsidian-image-page2.png)
 
-### 2. The example use case
+### 2. 样板用例的截图
 
 ![alt text](assets/chinese-thesaurus-webclipper-for-obsidian-image-page1.png)
 
-### 3. The example generated markdown note file
+### 3. 主题词笔记文件的截图
 
 ![alt text](assets/chinese-thesaurus-webclipper-for-obsidian-image-page3.png)
